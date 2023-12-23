@@ -1,0 +1,16 @@
+{
+    "name": "",
+    "type": "package",
+    "description": "",
+    "website": "",
+    "authors": [{
+        "name": "",
+        "email": ""
+    }],
+    "require": {
+        "volantis/core": "^1.0 || dev-main"
+    },
+    "libraries": {
+        "MyPackage": "lib"
+    }
+}
